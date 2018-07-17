@@ -1,6 +1,8 @@
 # qbit
 
 ### University Courses
+http://www.theory.caltech.edu/~preskill/ph219/ph219_2018
+
 http://www-inst.eecs.berkeley.edu/~cs191/sp12/
 
 https://people.eecs.berkeley.edu/~vazirani/quantum.html
