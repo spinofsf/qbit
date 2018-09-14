@@ -13,3 +13,6 @@ http://pirsa.org/C15009  Also available at https://youtu.be/QIvq3tMGBLI
 
 ### Introductory tutorials
 http://akyrillidis.github.io/notes/
+
+Understanding Tensor Product - http://hitoshi.berkeley.edu/221a/tensorproduct.pdf
+
