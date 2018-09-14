@@ -14,5 +14,7 @@ http://pirsa.org/C15009  Also available at https://youtu.be/QIvq3tMGBLI
 ### Introductory tutorials
 http://akyrillidis.github.io/notes/
 
+### Basics
 Understanding Tensor Product - http://hitoshi.berkeley.edu/221a/tensorproduct.pdf
+[How to Build Your Own Quantum Computer](https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/lecture-notes/qc_lec19.pdf)
 
