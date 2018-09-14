@@ -7,6 +7,8 @@ http://www-inst.eecs.berkeley.edu/~cs191/sp12/
 
 https://people.eecs.berkeley.edu/~vazirani/quantum.html
 
+https://ocw.mit.edu/courses/mathematics/18-435j-quantum-computation-fall-2003/index.htm
+
 ### Video Lectures
 Daniel Gottesman - Quantum Information Lectures
 http://pirsa.org/C15009  Also available at https://youtu.be/QIvq3tMGBLI
